@@ -1,0 +1,3 @@
+Max for Live.  Open source project to support multiple grid based controllers for generic functions and Max for Live plugins in Ableton Live.  The host currently supports Ohm64 (monochrome and RGB), Code, and iPad configurations.  This repository contains the current working versions of all Ableton Python Control Surface Scripts (based on the Live _Framework scripts) along with supported Max for Live client patches._
+
+Planned (and past/deprecated) support includes:  iPod/iPhone/Android via TouchOSC, Block, LaunchPad, APC40.
